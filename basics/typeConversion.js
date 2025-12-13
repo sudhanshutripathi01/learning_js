@@ -16,3 +16,10 @@ console.log(typeof Number(age));
 // now after conversion it will print number 
 console.log(age)
 console.log(typeof age)
+
+// we can chaneg he name the  data type dirctly from the variable 
+
+
+
+age =Number("50")
+console.log(typeof age)
